@@ -22,8 +22,17 @@ The commercial space age is here, companies are making space travel affordable f
 
 ![SpaceX Launch Success Instances](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/images/success.gif)
 
-In this capstone, I take the role of a data scientist working for a new rocket company. Space Y that would like to compete with SpaceX founded by Billionaire industrialist Allon Musk. My job is to determine the price of each launch. I have to do this by gathering information about Space X and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
+In this project, I take the role of a data scientist working for a new rocket company. Space Z that would like to compete with SpaceX founded by Billionaire industrialist Allon Musk. My job is to determine the price of each launch. I have to do this by gathering information about Space X and creating dashboards for my team. I also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
 
+## ⛏️ Built With <a name = "tech_stack"></a>
+
+- [Python](https://www.python.org/) - Programming Language
+- [IBM Watson Studio](https://www.ibm.com/in-en/cloud/watson-studio) - IBM’s software platform for data science
+- [IBM Db2](https://www.ibm.com/in-en/analytics/db2) - Db2 is a family of data management products, including database servers, developed by IBM
+- [Jupyter Notebooks](https://jupyter.org/) - Open-source web application that allows data scientists to create and share documents that integrate live code, equations, computational output, visualizations, and other multimedia resources.
+- [Anaconda](https://www.anaconda.com/) - Local environment for practice
+- [plotly.com](https://plotly.com/) - Plotly stewards Python's leading data viz and UI libraries. With Dash Open Source, Dash apps run on your local laptop or server
+- [GitHub](https://github.com/) - Repository for storing all files
 
 ⭐️ From [SUSHANT KUMAR](https://github.com/sushantkumar92940)
 
