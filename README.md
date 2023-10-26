@@ -12,7 +12,7 @@ I'm a Data Science and Research Enthusiast  👨‍💻, Currently in pre-final 
 
 **To know more:**  [LinkedIn](https://www.linkedin.com/in/sushantkumarprofile), [Email](mailto:sushantkumar92940@gmail.com)
 
-## 🚀 SpaceX <a name = "spacex" aligh="Center"></a>
+# 🚀 SpaceX <a name = "spacex"></a>
 
 ## 🏁 Introduction <a name = "introduction"></a>
 
