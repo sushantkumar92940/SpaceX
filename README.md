@@ -1,6 +1,4 @@
-<p align="Center" ></p>
-![image_processing20200604-7482-1ujz1st](https://github.com/sushantkumar92940/SpaceX/assets/63284165/127e0360-09cc-4822-9fdd-a6d1352a352e)
-
+![image_processing20200604-7482-1ujz1st](https://github.com/sushantkumar92940/SpaceX/assets/63284165/513c2345-889c-46de-ac6e-01fdc5cefb0f)
 
 <h1 align="Center">  Hi There, I'm SUSHANT KUMAR </h1>
 
