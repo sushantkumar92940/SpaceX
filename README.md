@@ -1,4 +1,4 @@
-<p align="center"><img width="450" height="300" src="https://github.com/sushantkumar92940/SpaceX/assets/63284165/513c2345-889c-46de-ac6e-01fdc5cefb0f" alt="color picker" /></p>
+<p align="center"><img width="650" height="350" src="https://github.com/sushantkumar92940/SpaceX/assets/63284165/513c2345-889c-46de-ac6e-01fdc5cefb0f" alt="color picker" /></p>
 
 <h1 align="Center">  Hi There, I'm SUSHANT KUMAR </h1>
 
