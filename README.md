@@ -10,7 +10,7 @@ I'm a Data Science and Research Enthusiast  👨‍💻, Currently in pre-final 
 - 🤔 I’m looking for help in learning about Data Analytics
 
 
-**To know more:**  [LinkedIn](https://www.linkedin.com/in/sushantkumarprofile), [Email](sushantkumar92940@gmail.com)
+**To know more:**  [LinkedIn](https://www.linkedin.com/in/sushantkumarprofile), [Email](mailto:sushantkumar92940@gmail.com)
 
 
 ⭐️ From [SUSHANT KUMAR](https://github.com/sushantkumar92940)
