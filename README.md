@@ -1,4 +1,4 @@
-<p align="Center" >![image_processing20200604-7482-1ujz1st](https://github.com/sushantkumar92940/SpaceX/assets/63284165/513c2345-889c-46de-ac6e-01fdc5cefb0f) width="300" height="250"</p>
+<p align="Center" >![image_processing20200604-7482-1ujz1st](https://github.com/sushantkumar92940/SpaceX/assets/63284165/513c2345-889c-46de-ac6e-01fdc5cefb0f) </p>
 
 <h1 align="Center">  Hi There, I'm SUSHANT KUMAR </h1>
 
